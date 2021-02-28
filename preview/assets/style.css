@@ -1,0 +1,47 @@
+body {
+	background-image: url(bg.jpg);
+	background-size: cover;
+}
+
+.right {
+	margin-right:120px;
+	float: right;
+}
+
+.left {
+	width: 40%;
+	float: left;
+	padding-left: 50px;
+	font-family: 'Open Sans';
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.5;
+}
+.link {
+	background: #FFF;
+	padding: 5px;
+}
+
+.marvel-device .screen {
+
+    width: 100%;
+    position: relative;
+    height: 100%;
+    z-index: 3;
+    background: white;
+    overflow: hidden;
+    display: block;
+    border-radius: 1px;
+    -webkit-box-shadow: 0 0 0 3px #efefef;
+    box-shadow: 0 0 0 3px #efefef;
+}
+
+h1, h3{color:#FFFFFF;}
+.logo{width:100px;float:left;margin-right:15px;}
+.description{margin-top:90px;color:#FFFFFF;}
+.clearfix{clear:both}
+
+iframe{border:0px;border-width:0px;width:370px;height:665px;overflow:hidden;}
+
+
+
